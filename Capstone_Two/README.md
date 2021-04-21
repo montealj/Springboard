@@ -6,7 +6,9 @@ This project aims to create a model that discerns whether a mass mobilization wi
 
 1. Documents
   * [Final Report](https://github.com/montealj/Springboard/blob/master/Capstone_Two/Mass_Mobilization_Report.pdf)
+  This report contains a detailed account of the data wrangling, EDA and modeling performed for this project.
   * [Presentation](https://github.com/montealj/Springboard/blob/master/Capstone_Two/Mass_Mobilization_Project_Presentation.pdf)
+  This presentation summarizes the data wrangling, EDA, modeling and conclusions for this project. 
 2. Notebooks
   * [Data Wrangling](https://github.com/montealj/Springboard/blob/master/Capstone_Two/Mass_Mobilization/Capstone_Two_MM_Data_Wrangling_JM.ipynb)
   * [Exploration Data Analysis](https://github.com/montealj/Springboard/blob/master/Capstone_Two/Mass_Mobilization/Capstone_Two_MM_EDA_JM.ipynb)
