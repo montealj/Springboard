@@ -5,8 +5,8 @@ This project aims to create a model that discerns whether a mass mobilization wi
 ### Table of Contents
 
 1. Documents
-  * Final Report (Description)
-  * Presentation (Description)
+  * [Final Report](https://github.com/montealj/Springboard/blob/master/Capstone_Two/Mass_Mobilization_Report.pdf)
+  * [Presentation](https://github.com/montealj/Springboard/blob/master/Capstone_Two/Mass_Mobilization_Project_Presentation.pdf)
 2. Notebooks
   * [Data Wrangling](https://github.com/montealj/Springboard/blob/master/Capstone_Two/Mass_Mobilization/Capstone_Two_MM_Data_Wrangling_JM.ipynb)
   * [Exploration Data Analysis](https://github.com/montealj/Springboard/blob/master/Capstone_Two/Mass_Mobilization/Capstone_Two_MM_EDA_JM.ipynb)
