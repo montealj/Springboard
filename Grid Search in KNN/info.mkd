@@ -1,0 +1,1 @@
+In this exercise, you'll identify the optimal number of neighbors to use in the K-nearest neighbor model.
